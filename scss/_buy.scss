@@ -1,0 +1,107 @@
+.buy {
+    
+
+&__img {
+    width: 50%;
+    height: 717px;
+    background-image: url("../img/Untitled-1 1.webp");
+}
+&__info{
+    width: 50%;
+    height: 717px;
+    background-color: black;
+}
+
+&__content {
+    display: flex;
+}
+
+&__title {
+    margin-top: 70px;
+    margin-left: 32px;
+    font-family: "Arh";
+    font-size: 62px;
+    font-weight: 400;
+    color: white;
+    line-height: 63.3px;
+    width: 624px;
+}
+
+&__complect-info {
+    color: #52BEDC;
+    font-family: "Roboto";
+    font-size: 24px;
+    font-weight: 700;
+    margin-top: 25px;
+    
+}
+
+&__complect {
+    margin-left: 32px;
+
+}
+
+&__icon-1 {
+    margin-top: 15px;
+    display: flex;
+    align-items: center;
+}
+
+&__disk {
+    color: white;
+    margin-left: 10px;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 400;
+}
+
+&__icon-2 {
+    margin-top: 15px;
+    display: flex;
+    align-items: center;
+}
+
+&__fut {
+    color: white;
+    margin-left: 10px;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 400;
+}
+
+&__icon-3 {
+    margin-top: 15px;
+    display: flex;
+    align-items: center;
+}
+
+&__collections {
+    color: white;
+    margin-left: 10px;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 400;
+}
+
+&__platform {
+    color: #52BEDC;
+    font-family: "Roboto";
+    font-size: 24px;
+    font-weight: 700;
+    margin-top: 70px;
+}
+
+&__console {
+    margin-top: 24.85px;
+    width: 319px;
+}
+
+&__xbox {
+    margin-left: 79px;
+}
+
+&__stadia {
+    margin-top: 47.81px;
+    margin-right: 80px;
+}
+}
